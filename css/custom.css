@@ -1,0 +1,5 @@
+#content .top-banner {
+	background: url("../img/landing-top-banner-image.png") no-repeat center center;
+	height: 300px;
+	margin-top: -46px;
+}
