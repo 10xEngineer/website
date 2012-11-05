@@ -11,3 +11,15 @@ div.row p {
 div.row li {
 	font-size:16px;font-weight:200;line-height:23px;	
 }
+
+div.document h1 {
+	margin-bottom: 12px;
+}
+
+div.document h4 {
+	margin-bottom: 6px;
+}
+
+div.document p {
+	font-size:16px;font-weight:200;line-height:23px;		
+}
