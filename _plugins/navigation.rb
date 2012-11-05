@@ -8,8 +8,11 @@ module Jekyll
 
         # First remove all invisible items (default: nil = show in nav)
         sorted = []
+
         site.pages.each do |page|
-          sorted << page if page.data["navigation"]["show"] != false
+          if page.data["navigation"]
+            sorted << page if page.data["navigation"]["show"] != false
+          end
         end
 
         # Then sort em according to weight
