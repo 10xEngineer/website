@@ -3,3 +3,11 @@
 	height: 300px;
 	margin-top: -46px;
 }
+
+div.row p {
+	font-size:16px;font-weight:200;line-height:23px;
+}
+
+div.row li {
+	font-size:16px;font-weight:200;line-height:23px;	
+}
