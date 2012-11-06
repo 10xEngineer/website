@@ -13,4 +13,4 @@ future:      true
 lsi:         false
 pygments:    true
 markdown:    rdiscount
-permalink:   date
+permalink:   pretty
