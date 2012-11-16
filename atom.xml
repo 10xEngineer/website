@@ -1,0 +1,32 @@
+---
+layout: nil
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>10xengineer.me/blog</title>
+ <link type="application/atom+xml" rel="self" href="http://10xengineer.me/atom.xml"/>
+ <link type="text/html" rel="alternate" href="http://10xengineer.me/blog/"/>
+ <updated>{{ site.time | date_to_xmlschema }}</updated>
+ <id>http://10xengineer.me/blog/</id>
+ <author>
+   <name>10xEngineer Ltd</name>
+ </author>
+
+ {% for post in site.posts %}
+ {% if post.categories contains 'blog' %}
+ <entry>
+   <title>{{ post.title }}</title>
+   <link href="http://10xengineer.me{{ post.url }}"/>
+   <updated>{{ post.date | date_to_xmlschema }}</updated>
+   <id>http://10xengineer.me{{ post.id }}</id>
+   <content type="html">{{ post.content | xml_escape }}</content>
+   <author>
+    <name>{{ post.author }}</name>
+    <email>{{ post.email }}</email>
+   </author>
+ </entry>
+ {% endif %}
+ {% endfor %}
+
+</feed>
