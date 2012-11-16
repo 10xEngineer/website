@@ -14,3 +14,4 @@ lsi:         false
 pygments:    true
 markdown:    rdiscount
 permalink:   pretty
+exclude:     vendor

@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+<div class="hero-unit posts">
+        <div class="ac">
+                <h1>10xEngineer Blogs</h1><br />
+        </div>
+</div>
+
+<div class="row">
+	<div class="post span9">
+		<h1><a href="{{ page.url }}">{{ page.title }}</a></h1>
+		{{ content }}
+		<div class="meta">
+		by {{ page.author }} on {{ page.date | date:"%a, %d %B %Y" }}
+		</div>
+	</div>
+
+
+	{% include blog_side.html %}
+</div>
+
