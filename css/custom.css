@@ -73,3 +73,12 @@ div.post li {
 	font-size: 14px;
 	font-weight:200;
 }
+
+#side div.social-networks {
+	text-align: center;
+	margin-bottom: 15px;
+}
+
+#side h3 {
+	text-align: left;
+}

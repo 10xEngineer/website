@@ -27,7 +27,7 @@ But that's just a beginning. Labs provide a perfect way how to
 
 If you want to check new features coming to Labs, please check our public development roadmap.
 
-Sounds interesting? Why don't you **launch your first Lab Machine today** and let us know what you think? We love feedback and always looking for a new ways how to improve engineer's day-to-day workflow. 
+Interested? Why don't you **launch your first Lab Machine today** and let us know what you think? We love feedback and always looking for a new ways how to improve engineer's day-to-day workflow. 
 
 _If you have read so far, please, make sure you follow us at Twitter/Facebook to be the first to know find out about new features and solutions._
 
