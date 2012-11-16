@@ -24,10 +24,18 @@ div.document p {
 	font-size:16px;font-weight:200;line-height:23px;		
 }
 
+#side {
+	margin-top: 7px;
+}
+
+#side h3 {
+	margin-bottom: 8px;
+}
+
 #side p {
-	font-size: 14px;
+	font-size: 13px;
 	font-weight:200;
-	line-height:19px;
+	line-height:21px;
 }
 
 #side li {
@@ -49,8 +57,19 @@ div.document p {
 	padding-bottom: 5px;
 }
 
-.row.post p {
+div.post, div.posts{
+	width: 650px;
+	margin-right: 50px;
+}
+
+div.post p {
 	font-size: 14px;
 	font-weight:200;
-	line-height:21px;
+	line-height:24px;
+	margin-bottom:8px;
+}
+
+div.post li {
+	font-size: 14px;
+	font-weight:200;
 }
