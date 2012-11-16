@@ -10,7 +10,7 @@ As a software engineers, we never stop learning. We try new technology, always l
 
 Unfortunately there are countless obstacles that waste our time. Time lost figuring out what went wrong with workstation, waiting for new development environment setup, waiting for new server provisioning, waiting for builds, waiting for a new guy to get started, waiting for ...
 
-That's a lot of time wasted. Lots of pointless frustration. Let's change that! We are 10xEngineer and our goal is to help you to be better as developer. 
+That's a lot of time wasted. Lots of pointless frustration. Let's change that! We are 10xEngineer and our goal is to help you to become better software engineer. 
 
 Today we are proud to introduce **Labs** - our platform for better development lifecycle, which is simple to start with and grows together with your requirements. With Labs you no longer have to endure complex setup of local development environment just to get started with new technology. Simply launch a new **Lab Machine** and get started in seconds. All it takes is
 
@@ -27,7 +27,7 @@ But that's just a beginning. Labs provide a perfect way how to
 
 If you want to check new features coming to Labs, please check our public development roadmap.
 
-Sounds interesting? Why don't you **launch your first Lab Machine today** and let us know what you think? We love feedback and always looking for a new ways how to improve engineer's day-to-day workflow. 
+Interested? Why don't you **launch your first Lab Machine today** and let us know what you think? We love feedback and always looking for a new ways how to improve engineer's day-to-day workflow. 
 
 _If you have read so far, please, make sure you follow us at Twitter/Facebook to be the first to know find out about new features and solutions._
 
