@@ -29,6 +29,6 @@ If you want to check out the new features that will shortly be added to Labs, pl
 
 Interested? Why don't you launch your first Lab Machine today and let us know what you think? We love feedback and are always looking for a new ways to improve an engineer's day-to-day workflow.
 
-_If you have read so far, please, make sure you follow us at [Twitter](http://twitter.com/10xEngineer)/[Facebook](http://www.facebook.com/10xEngineer) to be the first to know find out about new features and solutions._
+_If you have read so far, please, make sure you follow us at [Twitter](http://twitter.com/10xEngineer)/[Facebook](http://www.facebook.com/10xEngineer) to be the first to find out about new features and solutions._
 
 <sup>1</sup>Obviously you have to [install Labs CLI client](http://help.10xengineer.me/entries/22369652-getting-started-with-labs) first.
